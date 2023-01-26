@@ -1,0 +1,390 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple"
+    },
+    {
+        "id": 2,
+        "brand": "Samsung"
+    },
+    {
+        "id": 3,
+        "brand": "OPPO"
+    },
+    {
+        "id": 4,
+        "brand": "Huawei"
+    },
+    {
+        "id": 5,
+        "brand": "Microsoft Surface"
+    },
+    {
+        "id": 6,
+        "brand": "Infinix"
+    },
+    {
+        "id": 7,
+        "brand": "HP Pavilion"
+    },
+    {
+        "id": 8,
+        "brand": "Impression of Acqua Di Gio"
+    },
+    {
+        "id": 9,
+        "brand": "Royal_Mirage"
+    },
+    {
+        "id": 10,
+        "brand": "Fog Scent Xpressio"
+    },
+    {
+        "id": 11,
+        "brand": "Al Munakh"
+    },
+    {
+        "id": 12,
+        "brand": "Lord - Al-Rehab"
+    },
+    {
+        "id": 13,
+        "brand": "L'Oreal Paris"
+    },
+    {
+        "id": 14,
+        "brand": "Hemani Tea"
+    },
+    {
+        "id": 15,
+        "brand": "Dermive"
+    },
+    {
+        "id": 16,
+        "brand": "ROREC White Rice"
+    },
+    {
+        "id": 17,
+        "brand": "Fair & Clear"
+    },
+    {
+        "id": 18,
+        "brand": "Saaf & Khaas"
+    },
+    {
+        "id": 19,
+        "brand": "Bake Parlor Big"
+    },
+    {
+        "id": 20,
+        "brand": "Baking Food Items"
+    },
+    {
+        "id": 21,
+        "brand": "fauji"
+    },
+    {
+        "id": 22,
+        "brand": "Dry Rose"
+    },
+    {
+        "id": 23,
+        "brand": "Boho Decor"
+    },
+    {
+        "id": 24,
+        "brand": "Flying Wooden"
+    },
+    {
+        "id": 25,
+        "brand": "LED Lights"
+    },
+    {
+        "id": 26,
+        "brand": "luxury palace"
+    },
+    {
+        "id": 27,
+        "brand": "Golden"
+    },
+    {
+        "id": 28,
+        "brand": "Furniture Bed Set"
+    },
+    {
+        "id": 29,
+        "brand": "Ratttan Outdoor"
+    },
+    {
+        "id": 30,
+        "brand": "Kitchen Shelf"
+    },
+    {
+        "id": 31,
+        "brand": "Multi Purpose"
+    },
+    {
+        "id": 32,
+        "brand": "AmnaMart"
+    },
+    {
+        "id": 33,
+        "brand": "Professional Wear"
+    },
+    {
+        "id": 34,
+        "brand": "Soft Cotton"
+    },
+    {
+        "id": 35,
+        "brand": "Soft Cotton"
+    },
+    {
+        "id": 36,
+        "brand": "Top Sweater"
+    },
+    {
+        "id": 37,
+        "brand": "Top Sweater"
+    },
+    {
+        "id": 38,
+        "brand": "RED MICKY MOUSE.."
+    },
+    {
+        "id": 39,
+        "brand": "Digital Printed"
+    },
+    {
+        "id": 40,
+        "brand": "Ghazi Fabric"
+    },
+    {
+        "id": 41,
+        "brand": "Ghazi Fabric"
+    },
+    {
+        "id": 42,
+        "brand": "IELGY"
+    },
+    {
+        "id": 43,
+        "brand": "IELGY fashion"
+    },
+    {
+        "id": 44,
+        "brand": "Synthetic Leather"
+    },
+    {
+        "id": 45,
+        "brand": "Sandals Flip Flops"
+    },
+    {
+        "id": 46,
+        "brand": "Maasai Sandals"
+    },
+    {
+        "id": 47,
+        "brand": "Arrivals Genuine"
+    },
+    {
+        "id": 48,
+        "brand": "Vintage Apparel"
+    },
+    {
+        "id": 49,
+        "brand": "FREE FIRE"
+    },
+    {
+        "id": 50,
+        "brand": "Vintage Apparel"
+    },
+    {
+        "id": 51,
+        "brand": "The Warehouse"
+    },
+    {
+        "id": 52,
+        "brand": "The Warehouse"
+    },
+    {
+        "id": 53,
+        "brand": "Sneakers"
+    },
+    {
+        "id": 54,
+        "brand": "Rubber"
+    },
+    {
+        "id": 55,
+        "brand": "The Warehouse"
+    },
+    {
+        "id": 56,
+        "brand": "Sneakers"
+    },
+    {
+        "id": 57,
+        "brand": "Sneakers"
+    },
+    {
+        "id": 58,
+        "brand": "Naviforce"
+    },
+    {
+        "id": 59,
+        "brand": "SKMEI 9117"
+    },
+    {
+        "id": 60,
+        "brand": "SKMEI 9117"
+    },
+    {
+        "id": 61,
+        "brand": "Strap Skeleton"
+    },
+    {
+        "id": 62,
+        "brand": "Stainless"
+    },
+    {
+        "id": 63,
+        "brand": "Eastern Watches"
+    },
+    {
+        "id": 64,
+        "brand": "Eastern Watches"
+    },
+    {
+        "id": 65,
+        "brand": "Luxury Digital"
+    },
+    {
+        "id": 66,
+        "brand": "Watch Pearls"
+    },
+    {
+        "id": 67,
+        "brand": "Bracelet"
+    },
+    {
+        "id": 68,
+        "brand": "LouisWill"
+    },
+    {
+        "id": 69,
+        "brand": "LouisWill"
+    },
+    {
+        "id": 70,
+        "brand": "Bracelet"
+    },
+    {
+        "id": 71,
+        "brand": "Copenhagen Luxe"
+    },
+    {
+        "id": 72,
+        "brand": "Steal Frame"
+    },
+    {
+        "id": 73,
+        "brand": "Darojay"
+    },
+    {
+        "id": 74,
+        "brand": "Copenhagen Luxe"
+    },
+    {
+        "id": 75,
+        "brand": "Fashion Jewellery"
+    },
+    {
+        "id": 76,
+        "brand": "Fashion Jewellery"
+    },
+    {
+        "id": 77,
+        "brand": "Cuff Butterfly"
+    },
+    {
+        "id": 78,
+        "brand": "Designer Sun Glasses"
+    },
+    {
+        "id": 79,
+        "brand": "Designer Sun Glasses"
+    },
+    {
+        "id": 80,
+        "brand": "mastar watch"
+    },
+    {
+        "id": 81,
+        "brand": "mastar watch"
+    },
+    {
+        "id": 82,
+        "brand": "LouisWill"
+    },
+    {
+        "id": 83,
+        "brand": "Car Aux"
+    },
+    {
+        "id": 84,
+        "brand": "W1209 DC12V"
+    },
+    {
+        "id": 85,
+        "brand": "TC Reusable"
+    },
+    {
+        "id": 86,
+        "brand": "TC Reusable"
+    },
+    {
+        "id": 87,
+        "brand": "Neon LED Light"
+    },
+    {
+        "id": 88,
+        "brand": "METRO 70cc Motorcycle - MR70"
+    },
+    {
+        "id": 89,
+        "brand": "BRAVE BULL"
+    },
+    {
+        "id": 90,
+        "brand": "shock absorber"
+    },
+    {
+        "id": 91,
+        "brand": "JIEPOLLY"
+    },
+    {
+        "id": 92,
+        "brand": "Xiangle"
+    },
+    {
+        "id": 93,
+        "brand": "lightingbrilliance"
+    },
+    {
+        "id": 94,
+        "brand": "Ifei Home"
+    },
+    {
+        "id": 95,
+        "brand": "DADAWU"
+    },
+    {
+        "id": 96,
+        "brand": "Ifei Home"
+    },
+    {
+        "id": 97,
+        "brand": "YIOSI"
+    }
+]
