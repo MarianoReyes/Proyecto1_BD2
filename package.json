@@ -1,0 +1,22 @@
+{
+  "name": "proyecto1_bd2",
+  "version": "1.0.0",
+  "description": "mongoDB implementation in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianoReyes/Proyecto1_BD2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianoReyes/Proyecto1_BD2/issues"
+  },
+  "homepage": "https://github.com/MarianoReyes/Proyecto1_BD2#readme",
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
