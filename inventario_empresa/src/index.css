@@ -1,0 +1,10 @@
+/* Estilos principales de la pagina */
+
+.body_wrapper{
+  padding: 3rem;
+  background-color: #f4f4f4;
+}
+
+body{
+  font-family: 'Roboto Condensed', sans-serif!important;
+}
